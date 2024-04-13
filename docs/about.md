@@ -1,4 +1,0 @@
-Creat per:
-
-* Amador
-  
