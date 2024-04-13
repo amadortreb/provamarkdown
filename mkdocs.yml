@@ -1,0 +1,9 @@
+site_name: SISTEMES OPERATIUS MONOLLOC
+nav:
+- Home: index.md
+- Tema 1:
+  - t1.1: t1/t1.1.md
+  - t1.2: t1/t1.2.md
+- About: about.md
+
+theme: readthedocs
